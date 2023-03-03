@@ -14,7 +14,9 @@ const Home: NextPage = () => {
           rel="stylesheet"
         />
       </Head>
-      <Layout></Layout>
+      <Layout>
+         
+      </Layout>
     </>
   );
 };
